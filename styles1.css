@@ -1,0 +1,41 @@
+h1{
+    font-family: futura ;
+    color:#000000 ;
+  }
+  h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  p{
+    font-family: arial narrow;
+  }
+
+  ul{
+    font-family: arial narrow ;
+  }
+
+  .links{
+    color: #000000;
+    font-family:  Arial Narrow;
+  }
+
+  tr{
+    font-family:  Arial Narrow;
+  }
+
+
+ button{
+    font-family:  Arial Narrow;
+    background-color: rgb(172, 172, 214);
+    border-radius: 3px;
+  }
+textarea{
+    background-color: rgb(216, 211, 211);
+    border-radius:10px ;
+    font-family:  Arial Narrow;
+}
+p1{
+    font-family:  Arial Narrow;
+}

@@ -18,18 +18,21 @@ h1{
 
   .links{
     color: #000000;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: font-family:  Arial Narrow;
   }
 
 
 
  button{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:  Arial Narrow;
     background-color: rgb(172, 172, 214);
     border-radius: 3px;
   }
 textarea{
     background-color: rgb(216, 211, 211);
     border-radius:10px ;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:  Arial Narrow;
+}
+p1{
+    font-family:  Arial Narrow;
 }

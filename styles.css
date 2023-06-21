@@ -18,9 +18,12 @@ h1{
 
   .links{
     color: #000000;
-    font-family: font-family:  Arial Narrow;
+    font-family:  Arial Narrow;
   }
 
+  tr{
+    font-family:  Arial Narrow;
+  }
 
 
  button{
